@@ -1,7 +1,7 @@
-﻿using lab_2_3.Entities;
+﻿using lab_2_4.Entities;
 using NHibernate;
 
-namespace lab_2_3.Services;
+namespace lab_2_4.Services;
 
 
 public class ReviewService

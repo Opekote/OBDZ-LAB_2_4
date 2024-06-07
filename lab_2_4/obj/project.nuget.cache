@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mHW7QKFp/5VHQHJZJVLZpJSIwKLkzIFJhsVI4Fo8JnLrHMsonaghSTnFdFpnSAPz4fIiM6hFaEiVi6DRpmu+gA==",
+  "dgSpecHash": "cND11ZlL4nUyDmgcuaW96qiLWbsQOi9bqrOfZNYM0s+fcOZjJUh3HCNWWQ7krFOB8PSDIFmYJriLX265fNMjGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_3\\lab_2_4\\lab_2_4.csproj",
+  "projectFilePath": "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_4\\lab_2_4\\lab_2_4.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LapTopUSA\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\LapTopUSA\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",

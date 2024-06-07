@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_3\\lab_2_4\\lab_2_4.csproj": {}
+    "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_4\\lab_2_4\\lab_2_4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_3\\lab_2_4\\lab_2_4.csproj": {
+    "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_4\\lab_2_4\\lab_2_4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_3\\lab_2_4\\lab_2_4.csproj",
+        "projectUniqueName": "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_4\\lab_2_4\\lab_2_4.csproj",
         "projectName": "lab_2_4",
-        "projectPath": "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_3\\lab_2_4\\lab_2_4.csproj",
+        "projectPath": "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_4\\lab_2_4\\lab_2_4.csproj",
         "packagesPath": "C:\\Users\\LapTopUSA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_3\\lab_2_4\\obj\\",
+        "outputPath": "C:\\Users\\LapTopUSA\\Desktop\\C# labs\\OBDZ_LAB_2_4\\lab_2_4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,6 +1,6 @@
 ﻿using FluentMigrator;
 
-namespace lab_2_3.Migrations
+namespace lab_2_4.Migrations
 {
     [Migration(20240606)]
     public class CreateInitialTables : Migration

@@ -3,7 +3,7 @@ using NHibernate.Cfg;
 using NHibernate.Mapping.ByCode;
 using System.Reflection;
 
-namespace lab_2_3
+namespace lab_2_4
 {
     public static class NHibernateHelper
     {

@@ -1,9 +1,9 @@
 ﻿using FluentMigrator.Runner;
-using lab_2_3.Migrations;
-using lab_2_3.Services;
+using lab_2_4.Migrations;
+using lab_2_4.Services;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace lab_2_3
+namespace lab_2_4
 {
     class Program
     {

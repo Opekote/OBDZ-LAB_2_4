@@ -1,8 +1,8 @@
-﻿using lab_2_3.Entities;
+﻿using lab_2_4.Entities;
 using NHibernate.Mapping.ByCode;
 using NHibernate.Mapping.ByCode.Conformist;
 
-namespace lab_2_3.Mappers;
+namespace lab_2_4.Mappers;
 
 public class ReviewMap : ClassMapping<Review>
 {

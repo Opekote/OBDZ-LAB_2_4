@@ -1,4 +1,4 @@
-﻿namespace lab_2_3.Entities
+﻿namespace lab_2_4.Entities
 {
     public class Package
     {
