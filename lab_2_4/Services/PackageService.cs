@@ -15,11 +15,22 @@ public class PackageService
     public void ListAll()
     {
         var packages = _session.Query<Package>().ToList();
+
         foreach (var package in packages)
         {
-            Console.WriteLine($"{package.PackageID}: {package.PackageType} : {package.ContentDescription}");
+            Console.WriteLine($"Package {package.PackageID}: {package.PackageType}");
+
+            if (package.Shipment != null)
+            {
+                Console.WriteLine($" - Shipment ID: {package.Shipment.ShipmentID}, Tracking Number: {package.Shipment.TrackingNumber}");
+            }
+            else
+            {
+                Console.WriteLine(" - No shipment information available");
+            }
         }
     }
+
     
     public void LoadPackagesWithEagerLoading()
     {
